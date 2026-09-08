@@ -11,4 +11,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devXharry/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
