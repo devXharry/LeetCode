@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXharry/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devXharry/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devXharry/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devXharry/LeetCode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXharry/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devXharry/LeetCode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -59,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devXharry/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devXharry/LeetCode/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXharry/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
