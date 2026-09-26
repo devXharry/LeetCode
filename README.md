@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2401-longest-nice-subarray](https://github.com/devXharry/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXharry/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/devXharry/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Timsort
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2401-longest-nice-subarray](https://github.com/devXharry/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## String
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
