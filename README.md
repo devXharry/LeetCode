@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devXharry/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
