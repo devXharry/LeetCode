@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devXharry/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devXharry/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/devXharry/LeetCode/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/devXharry/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXharry/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devXharry/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devXharry/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/devXharry/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devXharry/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
