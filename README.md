@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devXharry/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2401-longest-nice-subarray](https://github.com/devXharry/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devXharry/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devXharry/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devXharry/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Union-Find
 |  |
