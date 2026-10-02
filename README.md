@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devXharry/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/devXharry/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/devXharry/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/devXharry/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
