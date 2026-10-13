@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/devXharry/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devXharry/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devXharry/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/devXharry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -224,10 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 ## Ternary Search
 |  |
 | ------- |
@@ -240,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devXharry/LeetCode/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
