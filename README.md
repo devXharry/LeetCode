@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devXharry/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/devXharry/LeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/devXharry/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devXharry/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/devXharry/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/devXharry/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/devXharry/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devXharry/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devXharry/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
