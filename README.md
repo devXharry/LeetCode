@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devXharry/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/devXharry/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/devXharry/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXharry/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/devXharry/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/devXharry/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/devXharry/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/devXharry/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/devXharry/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devXharry/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2390-removing-stars-from-a-string](https://github.com/devXharry/LeetCode/tree/master/2390-removing-stars-from-a-string) |
