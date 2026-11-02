@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devXharry/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devXharry/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/devXharry/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/devXharry/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/devXharry/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devXharry/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/devXharry/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devXharry/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/devXharry/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/devXharry/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devXharry/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/devXharry/LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
