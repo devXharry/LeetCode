@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devXharry/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/devXharry/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/devXharry/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0738-monotone-increasing-digits](https://github.com/devXharry/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/devXharry/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/devXharry/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/devXharry/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0738-monotone-increasing-digits](https://github.com/devXharry/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devXharry/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
