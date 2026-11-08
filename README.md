@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/devXharry/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devXharry/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devXharry/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devXharry/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/devXharry/LeetCode/tree/master/0846-hand-of-straights) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devXharry/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devXharry/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devXharry/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/devXharry/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/devXharry/LeetCode/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devXharry/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
