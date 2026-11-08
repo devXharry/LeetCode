@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/devXharry/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/devXharry/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devXharry/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/devXharry/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devXharry/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/devXharry/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/devXharry/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devXharry/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/devXharry/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devXharry/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/devXharry/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devXharry/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/devXharry/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Pigeonhole Principle
 |  |
