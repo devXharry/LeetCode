@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devXharry/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2401-longest-nice-subarray](https://github.com/devXharry/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devXharry/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devXharry/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2295-replace-elements-in-an-array](https://github.com/devXharry/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devXharry/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/devXharry/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/devXharry/LeetCode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devXharry/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devXharry/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/devXharry/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/devXharry/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/devXharry/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/devXharry/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Pigeonhole Principle
