@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/devXharry/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devXharry/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/devXharry/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/devXharry/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/devXharry/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/devXharry/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/devXharry/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/devXharry/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXharry/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/devXharry/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
 |  |
 | ------- |
