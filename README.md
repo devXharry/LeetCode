@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devXharry/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/devXharry/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/devXharry/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3979-maximum-valid-pair-sum](https://github.com/devXharry/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/devXharry/LeetCode/tree/master/1952-three-divisors) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/devXharry/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [3979-maximum-valid-pair-sum](https://github.com/devXharry/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
 |  |
 | ------- |
