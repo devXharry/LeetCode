@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/devXharry/LeetCode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/devXharry/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/devXharry/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/devXharry/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devXharry/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/devXharry/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devXharry/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devXharry/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/devXharry/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/devXharry/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/devXharry/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/devXharry/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/devXharry/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/devXharry/LeetCode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
